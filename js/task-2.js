@@ -24,7 +24,6 @@ const images = [
     alt: "Lighthouse Coast Sea",
   },
 ];
-
 const gal = document.querySelector(".gallery");
 
 const markup = images
